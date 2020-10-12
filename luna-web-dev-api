@@ -1,0 +1,10 @@
+{
+    "_id" : ObjectId("5f258f5e107c993accfc77cf"),
+    "seller" : false,
+    "name" : "TEST",
+    "email" : "testing@123.com",
+    "salt" : "357791343293",
+    "hashed_password" : "bbd5ba6e9173daa70cfa78573bbc3baf7dbcb005",
+    "created" : ISODate("2020-08-01T15:50:54.251Z"),
+    "__v" : 0
+}
